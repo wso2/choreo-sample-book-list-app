@@ -22,7 +22,7 @@ To engage with these examples:
 
 1. **Fork the Repository**: Begin by forking this repository to your GitHub account.
 2. Log into [Choreo](https://console.choreo.dev/).
-3. Create a mono repo project with React build preset for frontend components and Dockerfile for backend component.
+3. Create a mono repo project with React build preset for frontend components and NodeJS for backend component.
 
 Please refer to the Choreo documentation [Build Your First Cloud Native Application with Choreo](https://wso2.com/choreo/docs/quick-start-guides/build-your-first-cloud-native-application-with-choreo/) to learn more.
 
