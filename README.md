@@ -24,7 +24,7 @@ To engage with these examples:
 2. Log into [Choreo](https://console.choreo.dev/).
 3. Create a mono repo project with React build preset for frontend components and NodeJS for backend component.
 
-Please refer to the Choreo documentation [Build Your First Cloud Native Application with Choreo](https://wso2.com/choreo/docs/quick-start-guides/build-your-first-cloud-native-application-with-choreo/) to learn more.
+Please refer to the Choreo documentation [Deploy a Web Application that Consumes a Backend Service](https://wso2.com/choreo/docs/quick-start-guides/deploy-a-web-application-that-consumes-a-backend-service/) to learn more.
 
 ## Contribution & Feedback
 
