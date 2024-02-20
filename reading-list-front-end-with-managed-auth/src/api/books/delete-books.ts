@@ -24,6 +24,6 @@ export async function deleteBooks(id: string) {
     method: 'DELETE',
   };
 
-  const response = await performRequestWithRetry(`${apiUrl}/books?id=${id}`, options);
+  const response = await performRequestWithRetry(`${apiUrl}/books/${id}`, options);
   return response;
 }

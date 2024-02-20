@@ -210,7 +210,7 @@ export default function App() {
                         {books.map((book) => (
                           <div className="flex justify-between">
                             <li
-                              key={book.id}
+                              key={book.uuid}
                               className="relative rounded-md p-3"
                             >
                               <h3 className="text-sm font-medium leading-5">
@@ -224,7 +224,7 @@ export default function App() {
                             </li>
                             <button
                               className="float-right bg-red-500 text-white rounded-md self-center text-xs p-2 mr-2"
-                              onClick={() => handleDelete(book.id!)}
+                              onClick={() => handleDelete(book.uuid!)}
                             >
                               Delete
                             </button>
