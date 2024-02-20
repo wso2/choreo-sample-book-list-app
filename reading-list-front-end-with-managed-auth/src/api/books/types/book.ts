@@ -16,7 +16,7 @@
 
 
 export interface Book {
-  id?: string;
+  uuid?: string;
   title: string;
   author: string;
   status?: string;
